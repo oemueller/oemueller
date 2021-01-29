@@ -6,7 +6,7 @@ I like working in diverse teams of designers and developers and sharing my knowl
 You can visit my [personal website](https://oemueller.de/) if you like.
 
 🌱 I’m currently learning...
-  * Blender (maybe)
+  * Blender (If I can stick to it 😉)
 
 <!--
 **oemueller/oemueller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
